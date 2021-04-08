@@ -11,6 +11,7 @@ See example files in `dataset`.
 See the example script `train.sh`.
 ```
 ### train.sh ###
+
 DATADIR="./dataset"
 MODELDIR="./models"
 
