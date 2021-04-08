@@ -1,0 +1,1 @@
+from tagging.predictors.sentence_tagger import SentenceTaggerPredictor

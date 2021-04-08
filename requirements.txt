@@ -1,0 +1,6 @@
+torch==1.7.1+cu101
+allennlp==1.2.2
+overrides==3.1.0
+numpy==1.17.4
+fugashi==1.1.0
+ipadic==1.0.0
